@@ -1,0 +1,7 @@
+#pip install -r STT1_requirements.txt
+#python-3.5
+SpeechRecognition
+PyAudio
+#pip install -U pip
+#pip install -U setuptools
+nltk
